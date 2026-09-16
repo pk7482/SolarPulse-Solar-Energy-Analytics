@@ -1,0 +1,2 @@
+rows_after_cleaning,missing_values_after_cleaning,total_energy_produced_kWh,total_expected_energy_kWh,total_energy_loss_kWh,average_efficiency_percent,average_temperature_C
+305,0,6592.6,7632.98,1040.38,86.4,29.47
